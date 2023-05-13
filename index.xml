@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mohamed Watfa&#39;s Blog</title>
+    <link>https://medwatt.github.io/</link>
+    <description>Recent content on Mohamed Watfa&#39;s Blog</description>
+    <image>
+      <title>Mohamed Watfa&#39;s Blog</title>
+      <url>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing Analog Circuits (2): DC Analysis</title>
+      <link>https://medwatt.github.io/post/spice_2_dc_analysis/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/post/spice_2_dc_analysis/</guid>
+      <description>1 Introduction In this post, we&amp;rsquo;re going to see how the operating point of a circuit can be found in the presence of non-linear elements. Before reading further, make sure you have read my previous post on the Newton-Raphson method.
+2 Circuit Description To illustrate how the process works, we&amp;rsquo;re going to consider a simple circuit with components whose derivatives are easy to calculate.
+Figure 1. Schematic of circuit analyzed in this document</description>
+    </item>
+    
+    <item>
+      <title>Analyzing Analog Circuits (1): Newton-Raphson</title>
+      <link>https://medwatt.github.io/post/spice_1_newton_raphson/</link>
+      <pubDate>Sat, 13 May 2023 00:57:29 +0200</pubDate>
+      
+      <guid>https://medwatt.github.io/post/spice_1_newton_raphson/</guid>
+      <description>1 Newton-Raphson Method 1.1 Introduction Solving an analog circuit involves determining the voltage at all nodes in the circuit. This is usually done by using Kirchoff&amp;rsquo;s current law, which is based on the principle of conservation of charge, which states that the algebraic sum of the currents at any node in a circuit is equal to zero.
+By applying Kirchoff&amp;rsquo;s current laws to every node in the circuit, we get a collection of equations of the form $f_{i} (V_{1}, \ldots, V_{d}) = 0$, where $f_{i}$ is some scalar function.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://medwatt.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/about/</guid>
+      <description> </description>
+    </item>
+    
+    
+  </channel>
+</rss>
