@@ -12,6 +12,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Heap Memory: An Overview</title>
+      <link>https://medwatt.github.io/post/heap_memory/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/post/heap_memory/</guid>
+      <description>Introduction Heap memory, also known simply as the &amp;ldquo;heap&amp;rdquo;, is a critical region of a computer&amp;rsquo;s memory that provides dynamic memory allocation. This is particularly useful when creating complex data structures, such as linked lists or hashmaps, as it is often not possible to determine the sizes of these structures at compile time.
+Program Execution When a program is compiled, the resulting binary file typically consists of several sections that serve different purposes.</description>
+    </item>
+    
+    <item>
       <title>Virtual Memory: An Overview</title>
       <link>https://medwatt.github.io/post/virtual_memory/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
