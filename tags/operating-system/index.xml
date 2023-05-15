@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>operating system on Mohamed Watfa&#39;s Blog</title>
+    <link>https://medwatt.github.io/tags/operating-system/</link>
+    <description>Recent content in operating system on Mohamed Watfa&#39;s Blog</description>
+    <image>
+      <title>Mohamed Watfa&#39;s Blog</title>
+      <url>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtual Memory: An Overview</title>
+      <link>https://medwatt.github.io/post/virtual_memory/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/post/virtual_memory/</guid>
+      <description>Introduction Virtual memory is a feature of an operating system that provides an application the impression that it has contiguous working memory (an unbroken block), while in fact it is physically fragmented and may even overflow onto disk storage. Systems that use this method make programming of large applications easier and use real physical memory (RAM) more efficiently than if the physical memory was only divided into several fixed partitions.</description>
+    </item>
+    
+  </channel>
+</rss>
