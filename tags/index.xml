@@ -10,7 +10,25 @@
       <link>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>circuits</title>
+      <link>https://medwatt.github.io/tags/circuits/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/tags/circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>https://medwatt.github.io/tags/physics/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/tags/physics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>memory</title>
       <link>https://medwatt.github.io/tags/memory/</link>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>circuits on Mohamed Watfa&#39;s Blog</title>
+    <link>https://medwatt.github.io/tags/circuits/</link>
+    <description>Recent content in circuits on Mohamed Watfa&#39;s Blog</description>
+    <image>
+      <title>Mohamed Watfa&#39;s Blog</title>
+      <url>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/tags/circuits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maxwell Equations: An Overview</title>
+      <link>https://medwatt.github.io/post/maxwell_equations/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/post/maxwell_equations/</guid>
+      <description>Maxwell&amp;rsquo;s equations are a set of four fundamental laws that describe how electric and magnetic fields interact. These laws, formulated by James Clerk Maxwell in the mid-19th century, are the foundation of classical electrodynamics.
+1 Gauss&amp;rsquo;s Law for Electric Fields Gauss&amp;rsquo;s law for electric ﬁelds deals with electrostatic ﬁelds. It states that the electric flux out of a closed surface is proportional to the charge enclosed by that surface.
+To understand this law, we first have to introduce the divergence theorem.</description>
+    </item>
+    
+  </channel>
+</rss>
