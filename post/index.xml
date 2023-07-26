@@ -10,7 +10,18 @@
       <link>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Describe an Expanding Universe</title>
+      <link>https://medwatt.github.io/post/expanding_universe/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://medwatt.github.io/post/expanding_universe/</guid>
+      <description>The concept of an expanding universe is one of the most profound discoveries in cosmology. It has reshaped our understanding of the cosmos and our place within it. This chapter will delve into the history and mathematics behind this concept, providing a comprehensive understanding of how we describe an expanding universe.
+1 How Hubble Discovered That the Universe is Expanding The discovery that the universe is expanding is often attributed to the American astronomer Edwin Hubble.</description>
+    </item>
+    
     <item>
       <title>Maxwell Equations: An Overview</title>
       <link>https://medwatt.github.io/post/maxwell_equations/</link>

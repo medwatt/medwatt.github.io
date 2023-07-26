@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://medwatt.github.io/tags/cosmology/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://medwatt.github.io/tags/general-relativity/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://medwatt.github.io/post/expanding_universe/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://medwatt.github.io/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://medwatt.github.io/tags/physics/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://medwatt.github.io/post/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://medwatt.github.io/tags/quantum-physics/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://medwatt.github.io/tags/</loc>
+    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://medwatt.github.io/tags/circuits/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://medwatt.github.io/post/maxwell_equations/</loc>
-    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://medwatt.github.io/</loc>
-    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://medwatt.github.io/tags/physics/</loc>
-    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://medwatt.github.io/post/</loc>
-    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://medwatt.github.io/tags/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://medwatt.github.io/post/heap_memory/</loc>

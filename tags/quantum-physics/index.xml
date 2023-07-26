@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>physics on Mohamed Watfa&#39;s Blog</title>
-    <link>https://medwatt.github.io/tags/physics/</link>
-    <description>Recent content in physics on Mohamed Watfa&#39;s Blog</description>
+    <title>quantum physics on Mohamed Watfa&#39;s Blog</title>
+    <link>https://medwatt.github.io/tags/quantum-physics/</link>
+    <description>Recent content in quantum physics on Mohamed Watfa&#39;s Blog</description>
     <image>
       <title>Mohamed Watfa&#39;s Blog</title>
       <url>https://medwatt.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://medwatt.github.io/tags/quantum-physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Describe an Expanding Universe</title>
       <link>https://medwatt.github.io/post/expanding_universe/</link>
@@ -20,17 +20,6 @@
       <guid>https://medwatt.github.io/post/expanding_universe/</guid>
       <description>The concept of an expanding universe is one of the most profound discoveries in cosmology. It has reshaped our understanding of the cosmos and our place within it. This chapter will delve into the history and mathematics behind this concept, providing a comprehensive understanding of how we describe an expanding universe.
 1 How Hubble Discovered That the Universe is Expanding The discovery that the universe is expanding is often attributed to the American astronomer Edwin Hubble.</description>
-    </item>
-    
-    <item>
-      <title>Maxwell Equations: An Overview</title>
-      <link>https://medwatt.github.io/post/maxwell_equations/</link>
-      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://medwatt.github.io/post/maxwell_equations/</guid>
-      <description>Maxwell&amp;rsquo;s equations are a set of four fundamental laws that describe how electric and magnetic fields interact. These laws, formulated by James Clerk Maxwell in the mid-19th century, are the foundation of classical electrodynamics.
-1 Gauss&amp;rsquo;s Law for Electric Fields Gauss&amp;rsquo;s law for electric ﬁelds deals with electrostatic ﬁelds. It states that the electric flux out of a closed surface is proportional to the charge enclosed by that surface.
-To understand this law, we first have to introduce the divergence theorem.</description>
     </item>
     
   </channel>
